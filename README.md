@@ -13,6 +13,6 @@ The goal of Shwatavo is to provide a web based system that allows:
 ## Project Setup
 
 ### Requirements
-Like most programmers I find it tedious to write documentation I see it as incredibly important for keeping focused.  To that end I will be experimenting with user stories as issues, as outlined in jvandemo's [GitHub Scrum Workflow](https://github.com/jvandemo/github-scrum-workflow) project.
+Like most programmers I find it tedious to write documentation I see it as incredibly important for keeping focused.  To that end I will be experimenting with user stories and the new Project feaure of GitHub.
 
 For now, that's about all I have.
